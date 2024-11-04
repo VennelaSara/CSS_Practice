@@ -1,0 +1,213 @@
+/* *{
+    border:3px solid black;
+}
+html{
+    font-size:22px
+}
+body{
+font-size:22px;
+border:3px solid black;
+}
+main{
+    font-size:24pxx;
+}
+button,input,text-area,select{
+    font-size: inherit;
+}
+h1{
+    color:blue;
+}
+.grey{
+    color:grey;
+}
+p{
+color: purple !important;;
+}
+p{
+    color:red;
+    }
+.highlight{
+    text-transform:uppercase;
+    background-color:gold;
+}
+
+#italic{
+    font-style:italic;
+} */
+ /* body{
+    font-size:22px;
+    font-family:Arial, Helvetica, sans-serif;
+    line-height:1.5;
+    background-color:papayawhip; 
+    color:rgb(0,255,0);
+}
+p{
+    color:#333333;
+} */
+/* *{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    width:80%;
+    min-height:100vh;
+   font-size: 2rem;
+} */
+ /* p{
+    font-size: 40ch;
+ }
+ body{
+    width:100%;
+ }
+h1{
+    border:2px red dashed;
+    width:50%;
+} */
+ /* h1{
+ width:100vh;
+ font-size:3rem;
+ padding:0.5rem;
+    border:2px dashed red ; //em - font size relative
+ } */
+  /* Selects all Elements */
+/* *{  
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.container{ */
+    /* border: 10px double red; */
+    /* border-top:5px solid green;
+    border-left-width:7px;
+    border-left-color:blue;
+    border-right:10px dotted yellow;  */
+    /* border-left-width:7px;
+    border-left-color:blue;
+    border-right:10px dotted yellow;  */
+    /* font-size:1.5rem; */
+/*     margin-top:1.5em;
+    margin-right:2em;
+    margin-left:2em;
+    margin-bottom:2em; */
+    /* margin:1.5em 2em; */
+/*     
+outline:5px solid purple;
+outline-offset:-20px;
+    padding:1.5rem 2em;
+}
+.circle{
+    background-color: gold;
+    width:100px;
+    height:100px;
+    margin:3rem auto;
+    border:5px solid red;
+    border-radius:100%;
+
+}
+ */
+/* body{
+    padding:10%;
+    font-size:2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+ line-height:1.4;
+ /* letter-spacing:0.1em;
+ word-spacing: 0.5em; */
+ /* font-weight:400;
+ font-style:oblique; */
+/* } */ 
+/* input,button{
+    font:inherit;
+} */
+ /* main{
+    opacity:0.4;
+ }
+a{
+/* text-decoration: none;
+cursor:pointer;  */
+/* color:hsl(207,44%,49%); 
+
+}
+a:visited{
+    color:purple;
+}
+a:hover, a:focus {
+    /* color:hsl(189,44%,49%); */
+    /* opacity:0.8; */
+
+/* a:active{
+    color:red;
+}  */
+
+  
+  /* body{
+    padding:5% 10%;
+    font-size:2rem;
+    font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  }
+  ol{
+    list-style-type: lower-alpha;
+  }
+  ul{
+    list-style-type: square;
+    list-style-position: outside;
+  }
+  ul li:nth-child(2){
+    color:red;
+  }
+  ul ::marker{
+    color:red;
+    font-size: 1em;
+    font-family: fantasy;
+    content:"Only $5>>";
+  } */
+   *{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    }
+    body{
+        margin:0.5rem;
+        font-family: 'Times New Roman', Times, serif;
+        text-align:center;
+    }
+    nav{
+        border:2px solid #333;
+        border-radius:2rem;
+        margin:0 auto 1rem;
+        max-width:600px;
+        font-size :3rem;
+        line-height:7rem;
+    }
+    h2{
+        padding:1rem;
+        background: gold;
+        border-radius:2rem 2rem 0 0;
+    }
+    ul{
+        list-style-type:none;
+    }
+
+    li{
+        border-top:1px solid #333;
+    }
+    li a{
+        display:block;
+    }
+
+    li a,li a:visited{
+        text-decoration: none;
+        color:#333;
+    }
+    li a:hover,li a:focus{
+        background-color: #333;
+        color:whitesmoke;
+        cursor:pointer;
+    }
+    li:last-child a{
+        border-radius: 0 0 2rem 2rem;
+    }
